@@ -35,7 +35,8 @@ Jogo interativo de Amigo Secreto que permite cadastrar participantes, realizar s
 
 ## Acesso
 
-O projeto está disponível online em:  
+O projeto está disponível online em: 
+https://github.com/jlinhareshofsetz/jogo-amigo-secreto
 
 
 ## Sobre a Desenvolvedora
