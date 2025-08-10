@@ -1,8 +1,4 @@
-# Jogo do Amigo Secreto
-
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repo)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repo)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/seu-repo)
+# Projeto Amigo Secreto
 
 
 Projeto desenvolvido como parte do programa **ONE (Oracle Next Education)**, oferecido pela plataforma **Alura** em parceria com a **Oracle**. O projeto aplica conceitos práticos de desenvolvimento web com **HTML**, **CSS** e **JavaScript**, integrando aprendizado teórico e prático.
