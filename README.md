@@ -15,7 +15,7 @@ Jogo interativo de Amigo Secreto que permite cadastrar participantes, realizar s
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 
 ## Funcionalidades
 
@@ -35,13 +35,13 @@ Jogo interativo de Amigo Secreto que permite cadastrar participantes, realizar s
 
 ## Demonstração
 
-![Screenshot do jogo](./screenshot.png)  
+![Screenshot do jogo](./jogo.png)  
 *(Adicione uma imagem do jogo nesta pasta com o nome screenshot.png)*
 
 ## Acesso
 
 O projeto está disponível online em:  
-[https://leticialrocha.github.io/projetoAmigoSecreto](https://leticialrocha.github.io/projetoAmigoSecreto)
+
 
 ## Sobre a Desenvolvedora
 
