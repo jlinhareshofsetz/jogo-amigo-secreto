@@ -41,6 +41,5 @@ O projeto está disponível online em:
 ## Sobre a Desenvolvedora
 
 **Jéssica Linhares Hofsetz**  
-Aluna de Análise e Desenvolvimento de Sistemas - Universidade La Salle, Polo Zona Norte Porto Alegre.  
 Participante do programa **ONE (Oracle Next Education)** pela plataforma Alura.
 
