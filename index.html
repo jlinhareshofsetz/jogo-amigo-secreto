@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jogo do Amigo Secreto</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="container__conteudo">
+            <div class="container__informacoes">
+                <h1>Jogo do <span class="container__texto-azul">Amigo Secreto</span></h1>
+                <p class="texto__paragrafo">Digite o nome do seu amigo e adicione à lista.</p>
+
+                <input type="text" id="amigo" class="container__input" placeholder="Nome do amigo" />
+
+                <div class="container__botoes">
+                    <button onclick="adicionarAmigo()" class="container__botao">Adicionar Amigo</button>
+                    <button onclick="sortearAmigo()" class="container__botao">Sortear Amigo</button>
+                    <button onclick="limparLista()" class="container__botao">Limpar Lista</button>
+                </div>
+
+                <ul id="listaAmigos"></ul>
+                <ul id="resultado"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
