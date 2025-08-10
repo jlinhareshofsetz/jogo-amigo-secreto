@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repo)
 ![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repo)
 ![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/seu-repo)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 Projeto desenvolvido como parte do programa **ONE (Oracle Next Education)**, oferecido pela plataforma **Alura** em parceria com a **Oracle**. O projeto aplica conceitos práticos de desenvolvimento web com **HTML**, **CSS** e **JavaScript**, integrando aprendizado teórico e prático.
 
@@ -36,7 +36,6 @@ Jogo interativo de Amigo Secreto que permite cadastrar participantes, realizar s
 ## Demonstração
 
 ![Screenshot do jogo](./jogo.png)  
-*(Adicione uma imagem do jogo nesta pasta com o nome screenshot.png)*
 
 ## Acesso
 
@@ -49,6 +48,3 @@ O projeto está disponível online em:
 Aluna de Análise e Desenvolvimento de Sistemas - Universidade La Salle, Polo Zona Norte Porto Alegre.  
 Participante do programa **ONE (Oracle Next Education)** pela plataforma Alura.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
